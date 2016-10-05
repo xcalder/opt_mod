@@ -1,0 +1,2 @@
+# opt_mod
+为基于CodeIgniter开发的openant.com项目设计的，缓存系统核心修改而不直接系统文件来安装插件的项目。
